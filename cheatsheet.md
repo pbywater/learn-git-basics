@@ -12,14 +12,7 @@
 ##### See all branches in your remote repository
 		git branch -a
 
-##### Deleting a branch
-				git branch -d <branch name>
 
-##### Moving onto a branch
-		git checkout <branch name>
-
-##### Moving files while preserving git history
-		git mv <source> <destination>
 
 ##### Creates a branch, and moves you onto it at the same time
 		git checkout -b <new branch name>
