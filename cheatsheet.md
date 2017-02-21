@@ -18,8 +18,8 @@
 ##### Deleting a branch
 		git branch -d <branch name>
 
+##### Creates a branch, and moves you onto it at the same time
+				git checkout -b <new branch name>
+
 ##### Moving files while preserving git history
 		git mv <source> <destination>
-
-##### Creates a branch, and moves you onto it at the same time
-		git checkout -b <new branch name>
